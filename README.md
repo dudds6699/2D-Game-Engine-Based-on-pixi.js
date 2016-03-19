@@ -1,3 +1,5 @@
+This will be using pixi.js rendering engine as a base for a game engine or so i hope right now its just a fork.
+
 Pixi.js — A 2D JavaScript Renderer
 =============
 
